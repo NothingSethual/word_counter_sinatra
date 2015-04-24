@@ -1,6 +1,6 @@
 # Will add details later
 
-Max Word Finder
+Word Counter
 
 Author:
 Program name:
