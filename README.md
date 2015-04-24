@@ -1,6 +1,5 @@
 ##Word Counter
 
-
 Author: Garrett Olson
 
 Program name: Word Counter
