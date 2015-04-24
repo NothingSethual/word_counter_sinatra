@@ -1,0 +1,59 @@
+[33mcommit 304f77afde2fcafc582443695144a2cb9d46a63c[m
+Author: Garrett Olson <garrettdolson@gmail.com>
+Date:   Fri Apr 24 11:15:14 2015 -0700
+
+    Improve integration test steps
+
+[33mcommit ed63af125e0dc5228133add425dafc60da54496d[m
+Author: Garrett Olson <garrettdolson@gmail.com>
+Date:   Fri Apr 24 11:03:49 2015 -0700
+
+    Get site up and running, write integration test
+
+[33mcommit 101aa0ed308d0bcd85da5491c7a2a39aaf4f7c90[m
+Author: Garrett Olson <garrettdolson@gmail.com>
+Date:   Fri Apr 24 10:49:23 2015 -0700
+
+    Add unit tests for more complex cases
+
+[33mcommit cd926cc14e3bee72d7eca867b65b00fa43a88fe5[m
+Author: Garrett Olson <garrettdolson@gmail.com>
+Date:   Fri Apr 24 10:41:33 2015 -0700
+
+    Takes into account punctuation and capitalization.
+
+[33mcommit 3c1158ef20bcc43cd2a44b919ad78817c9fdeeff[m
+Author: Garrett Olson <garrettdolson@gmail.com>
+Date:   Fri Apr 24 10:29:52 2015 -0700
+
+    Add word_counter logic, get base case unit test passing
+
+[33mcommit 9f1653fe8466d3d175a251babc4dc04d4bb2dc40[m
+Author: Garrett Olson <garrettdolson@gmail.com>
+Date:   Fri Apr 24 10:19:15 2015 -0700
+
+    Add first spec, delete files with names not in line with objective
+
+[33mcommit 343932857f85d7fdb772b60953c6c7e4c04a50e0[m
+Author: Garrett Olson <garrettdolson@gmail.com>
+Date:   Fri Apr 24 10:05:29 2015 -0700
+
+    Rename files to word_counter, more in line with objective
+
+[33mcommit 42fa675b64c22c9c0fe9caf0156d5e6245a466ec[m
+Author: Garrett Olson <garrettdolson@gmail.com>
+Date:   Fri Apr 24 09:51:19 2015 -0700
+
+    Add gems, create Gemfile.lock
+
+[33mcommit 73e553e9ff051f5aad089a022d1617f27010e1e0[m
+Author: Garrett Olson <garrettdolson@gmail.com>
+Date:   Fri Apr 24 09:47:38 2015 -0700
+
+    Add solution file structure (empty files)
+
+[33mcommit 664d6eb316b2c63b4b2e369641e6f7cbe57c3d66[m
+Author: Garrett Olson <garrettdolson@gmail.com>
+Date:   Fri Apr 24 09:39:28 2015 -0700
+
+    First commit, add README

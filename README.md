@@ -1,10 +1,26 @@
-# Will add details later
+##Word Counter
 
-Word Counter
 
-Author:
-Program name:
-Description:
-Setup:
-Copyright:
-License information:
+Author: Garrett Olson
+
+Program name: Word Counter
+
+Description: Word Counter shows how many times a word appears in a phrase of text. Capitalization and standard punctuation do not affect output.
+
+For example:
+
+* Target phrase: "Cats! I love cats!"
+* Target word: "cats"
+* Result: 2
+
+##Setup:
+
+1. Navigate to the 'Word Counter' home page here
+2. In the top most input field, enter a target phrase
+3. In the bottom field, enter a target word
+4. Click the 'Find count!' button
+
+
+##Copyright and license
+
+Code and documentation copyright 2015 Garrett Olson. Word Counter is released under the [MIT license](http://opensource.org/licenses/MIT)

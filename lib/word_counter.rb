@@ -12,7 +12,7 @@ class String
       end
     end
 
-    target_count
+    return target_count
 
   end
 end
